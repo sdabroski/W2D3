@@ -1,0 +1,16 @@
+# frozen_string_literal: true
+
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# gem "rails"
+
+# Added at 2019-03-20 13:42:28 -0700 by appacademy:
+gem "rspec", "~> 3.8"
+
+# Added at 2019-03-20 13:44:04 -0700 by appacademy:
+gem "byebug", "~> 11.0"
+
+# Added at 2019-03-20 13:44:16 -0700 by appacademy:
+gem "pry", "~> 0.12.2"
