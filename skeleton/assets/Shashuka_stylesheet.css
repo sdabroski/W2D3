@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif
+
+}
+
+h1 {
+  font-size: 38px
+}
+
+h2 {
+  font-size: 32px
+}
+
+.ingredients-list {
+    square inside/* there are many color names */
+}
+
+.instructions {
+  font-size: 60px;
+  font-weight: bold;
+
+}
